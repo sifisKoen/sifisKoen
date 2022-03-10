@@ -3,7 +3,7 @@
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/KoenIosif)
 
 -->
-## I'm Developer, Mentonr at IEEE IHU Student Branch (Thessaloniki) and member of [Tlab][TlabWebsite]!!
+## I'm a junior DevOps engineer, and member of [Tlab][TlabWebsite]!!
 
  <!-- 
 
@@ -12,8 +12,9 @@
 - 🔭 I just launched with:
 -->
 
-- 🌱 I’m currently learning Go lang (I am tring at least)🤣
-- 👯 I’m looking to collaborate with other developers
+- 🌱 I’m currently learning Go lang. (I am tring at least)🤣
+- 📘 I’m currently reading for my Cisco CCNA DevNet certification.
+- 👯 I’m looking to collaborate with other developers.
 - ⚡ Fun fact: I love geek movies like the LOTR, and I am a big nerd with fantasy books.
 
 ### Connect with me:
