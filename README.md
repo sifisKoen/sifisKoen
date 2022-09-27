@@ -13,6 +13,7 @@
 -->
 
 - 📘 I’m currently studing in KTH Royal Institute of Technology.
+- :computer: MSc at Software Engineering of Distributed Systems.
 - 🌱 I’m currently learning Go lang.
 - 👯 I’m looking to collaborate with other developers.
 - ⚡ Fun fact: I love geek movies like the LOTR, and I am a big nerd with fantasy books.
