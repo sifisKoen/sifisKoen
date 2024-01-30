@@ -8,7 +8,7 @@
     <img src="https://komarev.com/ghpvc/?username=sifisKoen&style=for-the-badge">
 </a>
 -->
-
+          
 ## I'm a junior DevOps engineer, and member of [Tlab][TlabWebsite]!!
 
  <!-- 
@@ -39,12 +39,7 @@
 ### Languages :gear: 
 
 <!-- Python Image -->
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<!-- Go Image -->
-<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
-<!-- Java Image -->
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /> <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <br />
 
 ### Tools :wrench:
