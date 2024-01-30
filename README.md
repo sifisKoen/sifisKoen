@@ -3,6 +3,12 @@
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/KoenIosif)
 
 -->
+
+<!-- <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=sifisKoen&style=for-the-badge">
+</a>
+-->
+
 ## I'm a junior DevOps engineer, and member of [Tlab][TlabWebsite]!!
 
  <!-- 
